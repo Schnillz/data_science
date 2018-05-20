@@ -1,1 +1,10 @@
 # Data Science (BHTB MIM 12 S18)
+
+1. Data Science Introduction Excercise (29.4. and 5 points) Aufgabe
+2. Linear Algebra Excercise (29.4. and 5 points) Aufgabe
+3. Python Excercise (13.5. and 10 points) Aufgabe
+4. Python 4 Data Science Excercise (20.05. and 15 points) Aufgabe
+5. R and Julia Excercise ( 27.5. and 15 points) Aufgabe
+6. Data Cleaning Excercise (3.6. and 30 points) Aufgabe
+7. Tool Supported Data Cleaning (10.6. and 15 points) Aufgabe
+8. ML INtroduction Exercise (10.6. and 5 points)
