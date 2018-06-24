@@ -9,6 +9,7 @@
     3. [panda exercises](jupiter_notebook/exercise_4/exercise_4_3.ipynb)
 5. R and Julia Excercise ( 27.5. and 15 points) Aufgabe
 6. Data Cleaning Excercise (3.6. and 30 points) Aufgabe
+    1. [Clean the data](jupiter_notebook/exercise_6/exercice_6_1.ipynb)
 7. Tool Supported Data Cleaning (10.6. and 15 points) Aufgabe
 8. ML INtroduction Exercise (10.6. and 5 points)
 
