@@ -14,5 +14,7 @@
 8. ML INtroduction Exercise (10.6. and 5 points)
 9. Logistic Regression
     1. [Iris-Virginica](jupiter_notebook/exercise_9/exercise_9.ipynb)
+10. IBM
+    1. [Test new Iris dataset with IBM](jupiter_notebook/exercise_10/exercise_10.ipynb)
 
 
