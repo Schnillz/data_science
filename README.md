@@ -12,5 +12,7 @@
     1. [Clean the data](jupiter_notebook/exercise_6/exercice_6_1.ipynb)
 7. Tool Supported Data Cleaning (10.6. and 15 points) Aufgabe
 8. ML INtroduction Exercise (10.6. and 5 points)
+9. Logistic Regression
+    1. [Iris-Virginica](jupiter_notebook/exercise_9/exercise_9.ipynb)
 
 
