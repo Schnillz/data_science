@@ -16,5 +16,8 @@
     1. [Iris-Virginica](jupiter_notebook/exercise_9/exercise_9.ipynb)
 10. IBM
     1. [Test new Iris dataset with IBM](jupiter_notebook/exercise_10/exercise_10.ipynb)
+11. Decision Trees
+    1. [Decision Tree with the iris dataset](jupiter_notebook/exercise_11/exercise_11.ipynb)
+
 
 
